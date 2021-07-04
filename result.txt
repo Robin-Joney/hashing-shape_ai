@@ -1,0 +1,4 @@
+Enter string : Robin Joney
+The Hexadecimal Hash value of String is : a63d86662e3aea28e88ef55ce9ad3238
+The Byte Equivalent of Sting is : b'\xa6=\x86f.:\xea(\xe8\x8e\xf5\\\xe9\xad28'
+The Salted String is :  a63d86662e3aea28e88ef55ce9ad3238Robin Joney
